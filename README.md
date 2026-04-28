@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في كل مكان
+> تعال ننسى هموم الزمان
+> شوقي إليك نار لا تنام
+> بين يديك يطير الغرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
